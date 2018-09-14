@@ -1,2 +1,5 @@
 // add solution here
-function the BeatlesPlay()
+function theBeatlesPlay(musicians, instruments) {
+  var = {}
+  for ()
+}
